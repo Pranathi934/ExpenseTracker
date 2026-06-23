@@ -12,6 +12,7 @@ This project is a simple Python program that helps users track their daily expen
 Add expenses with category
 Display all expenses
 Show total spending
+
 🛠️ Concepts Used
 
 Lists
@@ -20,6 +21,7 @@ Calculations
 ⚙️ Requirements
 
 Python 3.x installed
+
 🚀 How to Run
 
 Clone the repository:
